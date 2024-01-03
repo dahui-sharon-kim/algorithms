@@ -1,0 +1,1 @@
+list(map(lambda x: x + 10))
